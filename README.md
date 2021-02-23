@@ -23,12 +23,13 @@ It is an application where users can create quotes and have those quotes voted o
 
 ### Contact Information  
 Email:charitytoni0@gmail.com
-Tel:0783009892
+Tel: 0783009892
 
 ### Github live pages
+https://charitymutonii.github.io/QuotesApp/
 
 ### License 
-This project is license  by MIT for more info see LICENSE
+This project is license  by MIT for more info see 
 
 ### copyright information
 Copyright (c) 2020 CharityMutonii
