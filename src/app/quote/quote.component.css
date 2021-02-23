@@ -14,12 +14,12 @@ h1,h2,h3,h4,h5,h6{
   }
   
   a,a:visited,a:hover {
-    color: #1976d2;
+    color: #861116;
     text-decoration: none;
   }
   
   a:hover {
-    color: #125699;
+    color: #861116;
   }
     
   @media screen and (max-width: 767px){
