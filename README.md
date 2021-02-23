@@ -28,7 +28,7 @@ Tel:0783009892
 ### Github live pages
 
 ### License 
-This project is license  by MIT for more info see [LICENSE.md]
+This project is license  by MIT for more info see 
 
 ### copyright information
 Copyright (c) 2020 CharityMutonii
