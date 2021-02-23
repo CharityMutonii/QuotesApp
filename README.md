@@ -15,21 +15,21 @@ It is an application where users can create quotes and have those quotes voted o
  4. Edit the codes according to your preferences
  
 ### Technologies
-1.Typescript
-2. Html
-3. Css
-4. bootstrap framework
-5. Jquery(javascript libary)
+ 1.Typescript
+ 2. Html
+ 3. Css
+ 4. bootstrap framework
+ 5. Jquery(javascript libary)
 
 ### Contact Information  
-Email:charitytoni0@gmail.com
-Tel: 0783009892
+ Email:charitytoni0@gmail.com
+ Tel: 0783009892
 
 ### Github live pages
-https://charitymutonii.github.io/QuotesApp/
+ https://charitymutonii.github.io/QuotesApp/
 
 ### License 
-This project is license  by MIT for more info see 
+This project is license  by MIT 
 
 ### copyright information
 Copyright (c) 2020 CharityMutonii
