@@ -14,10 +14,14 @@
        background-color: #5f101d;
        color: white;
        font-weight: 600;
+       font-size: large;
    }
    
    .toolbar span {
-       margin: 0 16px;
+       margin: 50px 20px;
+       font-size: 60px;
+       text-align: center;
+       align-items: center;
    }
    
    .content {
